@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  myFirstRealApp
 //
-//  Created by Krajg Larson on 2/28/24.
+//  Created by Kraig Larson on 2/28/24.
 //
 
 import SwiftUI
